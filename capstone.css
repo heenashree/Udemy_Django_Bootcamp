@@ -1,5 +1,6 @@
 body{
-background: #c0ded9
+background: #c0ded9;
+font-family: Marker Felt, fantasy
 }
 .cap{
 background:black;
@@ -7,7 +8,7 @@ text-align:center;
 color: white;
 margin:10px;
 padding: 10px;
-font-family: Marker Felt, fantasy
+
 }
 p{
 padding: 20px
